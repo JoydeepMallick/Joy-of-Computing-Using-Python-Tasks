@@ -1,0 +1,7 @@
+scipt imread 
+
+https://docs.scipy.org/doc/scipy-1.2.1/reference/generated/scipy.misc.imread.html
+
+
+instead use
+imageio.read()
