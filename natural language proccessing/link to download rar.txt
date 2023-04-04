@@ -1,0 +1,15 @@
+https://github.com/programminghistorian/ph-submissions/blob/gh-pages/assets/introduction-to-stylometry-with-python/stylometry-federalist.zip
+
+
+
+spliting code into five categories
+
+1. 51 papers by Alexander Hamilton
+
+2. 14 papers by James Edison
+
+3. 5 papers by John James
+
+4. 3 papers cowritten by Edison and Hamilton
+
+5. 12 papers disputed between Edison and Hamilton
